@@ -1,6 +1,6 @@
 #include <stdio.h>                                                                                                                                     
 
-/**                                                                                                                                                    
+/*                                                                                                                                                    
 *
 *main - Print the string using puts function                                                                                                           
 *
